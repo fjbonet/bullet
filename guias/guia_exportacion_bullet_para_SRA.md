@@ -31,3 +31,5 @@ Para exportar los horarios completos de un grado en Bullet:
 
 
 el paso anterior se puede evitar configurando mejor las listas. Quitar el título y nombre del evento. Eso hace que no sea necesario separar celdas. ADemás, la opción excele M1 no sirve. Mejor la m2...
+
+lo tienes todo en el escritorio remoto. Carpeta _2
