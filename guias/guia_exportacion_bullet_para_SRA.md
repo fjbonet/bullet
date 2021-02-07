@@ -28,3 +28,6 @@ Para exportar los horarios completos de un grado en Bullet:
   + Seleccionar los campos que tienen celdas combinadas y "Separar celdas" en excel.
   + Seleccionar columna Evento y subir una celda para alinear el contenido de las celdas de las demás columnas.
   + Ordenar por aula....
+
+
+el paso anterior se puede evitar configurando mejor las listas. Quitar el título y nombre del evento. Eso hace que no sea necesario separar celdas. ADemás, la opción excele M1 no sirve. Mejor la m2...
